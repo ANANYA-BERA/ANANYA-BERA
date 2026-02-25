@@ -39,8 +39,8 @@
 
 ## 🌟 Let's Connect
 
-- 💼 LinkedIn: [Your LinkedIn Link]
-- 📧 Email: your.email@example.com
+- 💼 LinkedIn: https://www.linkedin.com/in/ananyain
+- 📧 Email: techananyaofficial@gmail.com
 
 ---
 
