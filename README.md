@@ -1,53 +1,57 @@
-# Hi, I'm Ananya 👋  
-
-🎯 Aspiring Cloud Engineer | AWS | DevOps | Building in Public  
-
-I’m currently focused on building real-world cloud and infrastructure skills while pursuing my degree.  
-My goal is to become a Cloud Engineer and work on scalable systems, automation, and modern DevOps practices.
-
-I believe in:
-- Learning by building
-- Consistency over intensity
-- Skills > college prestige
+<h1 align="center">Hi 👋, I'm Ananya Bera</h1>
+<h3 align="center">Frontend Developer | React & Tailwind Enthusiast</h3>
 
 ---
 
-## 🚀 What I'm Learning Right Now
-- Linux & Networking Fundamentals
+## 🚀 About Me
+
+- 💻 Frontend Developer skilled in **React, JavaScript, Tailwind CSS**
+- 🎨 Passionate about creating clean and modern UI
+- 🌱 Exploring UI/UX Design
+- 📍 India
+
+---
+
+## 🛠️ Tech Stack
+
+### 💻 Frontend
+- React.js
+- JavaScript (ES6+)
+- Tailwind CSS
+- HTML5
+- CSS3
+
+### ⚙️ Tools & Platforms
 - Git & GitHub
-- AWS Cloud (EC2, S3, IAM, VPC)
-- Docker & DevOps Basics
-- Infrastructure as Code (Terraform)
+- VS Code
+- Figma
 
 ---
 
-## 🛠 Tech Stack
-- Linux
-- Git & GitHub
-- Python
-- AWS
-- Docker (learning)
-- CI/CD (learning)
+## 📂 Projects
+
+🔹 Health Dashboard App  
+🔹 Café & Bakery Website UI  
+🔹 Responsive Portfolio Website  
+
+*(More projects coming soon...)*
 
 ---
 
-(More coming every week…)
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=tokyonight" />
+</p>
 
 ---
 
-## 📈 Currently Working On
-- Daily cloud practice
-- Hands-on projects
-- AWS Certifications
-- Sharing my learning journey on LinkedIn
+## 🌟 Let's Connect
+
+- 💼 LinkedIn: [Your LinkedIn Link]
+- 📧 Email: your.email@example.com
 
 ---
 
-## 🤝 Let's Connect
-- LinkedIn: www.linkedin.com/in/ananyain
-- Email: techananyaofficial@gmail.com
-
----
-
-⭐ Thanks for visiting my profile!  
-Follow along as I learn cloud engineering step-by-step.
+⭐️ *"Building beautiful interfaces with clean code."*
